@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey there 👋
 
+I'm Deyvin, a full time student based in London
+
+I am actively learning HMTL, CSS, JS and Python and developing personal projects
+
+I am open to work experience!
 <!--
 **Deyvin888/deyvin888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
