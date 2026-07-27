@@ -1,10 +1,10 @@
 ## Hey there 👋
 
-I'm Deyvin, a full time student based in London
+I'm Deyvin, a full-time student based in London.
 
-I am actively learning HMTL, CSS, JS and Python and developing personal projects
+I'm currently learning HTML, CSS, JavaScript and Python while building personal projects to improve my skills.
 
-I am open to work experience!
+I'm always open to work experience opportunities and connecting with other developers!
 <!--
 **Deyvin888/deyvin888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
